@@ -5,14 +5,12 @@ Launch Instructions:
 
 1) Clone repository to your desired directory.
 
-2) Open Terminal/Command Prompt and 'cd' into the root of the repo.
-
-3) Enter the following command:
-
+2) Enter the following command:
+    cd Minesweeper-PRA-
     javac main/main.java
     java main/main
 
-4) Play Minesweeper
+3) Play Minesweeper
 
 How to play:
 
