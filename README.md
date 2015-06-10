@@ -6,6 +6,7 @@ Launch Instructions:
 1) Clone repository to your desired directory.
 
 2) Enter the following command:
+
     cd Minesweeper-PRA-
     javac main/main.java
     java main/main
